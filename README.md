@@ -1,4 +1,4 @@
-# Sruthi Suresh
+#Hi, I'm Sruthi Suresh
 
 Computer science → biomedical engineering.  
 I work on machine learning problems where the data is difficult, the evaluation matters, and the answer isn't always a bigger model.
