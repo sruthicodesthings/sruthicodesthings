@@ -1,6 +1,8 @@
 <div align="center">
 
-![Sruthi Suresh — Computer Science and Biomedical Engineering](assets/profile-header-pink.svg)
+<img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=42&duration=2600&pause=1100&color=C12E64&center=true&vCenter=true&width=850&height=90&lines=hi%2C+i'm+sruthi.;i+work+with+messy+data.;i+build+things+that+make+sense." alt="Animated introduction: hi, I'm Sruthi; I work with messy data; I build things that make sense." />
+
+<sub>COMPUTER SCIENCE &nbsp; / &nbsp; BIOMEDICAL ENGINEERING &nbsp; / &nbsp; NUS</sub>
 
 </div>
 
@@ -9,16 +11,16 @@ I work on machine learning problems where the data is difficult, the evaluation 
 
 Currently studying biomedical engineering at the National University of Singapore.
 
-### Selected work
+### <span style="color:#C12E64">Selected work</span>
 
-<table><tr><td width="50%"><a href="https://github.com/sruthicodesthings/computational-pathology"><img src="assets/pathology-card-pink.svg" alt="Computational pathology project" width="100%"/></a></td><td width="50%"><a href="https://github.com/sruthicodesthings/mimic-iv-icu-prediction"><img src="assets/icu-card-pink.svg" alt="ICU transfer prediction project" width="100%"/></a></td></tr></table>
+
 
 **01 / [Mapping pathology across the mouse brain](https://github.com/sruthicodesthings/computational-pathology)**  
 *Computational pathology · EPFL research*
 
 An image-analysis workflow for multi-terabyte fluorescence microscopy: annotation, Attention U-Net segmentation, tiled inference, atlas registration, and spatial quantification.
 
-![Python](https://img.shields.io/badge/Python-B84E77?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-D96A94?style=flat-square&logo=pytorch&logoColor=white) ![MONAI](https://img.shields.io/badge/MONAI-A54369?style=flat-square) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-CF83A0?style=flat-square)
+`Python` · `PyTorch` · `MONAI` · `Computer vision`
 
 <details>
 <summary>Inside the project ↗</summary>
@@ -37,7 +39,7 @@ An image-analysis workflow for multi-terabyte fluorescence microscopy: annotatio
 
 A retrospective study of ICU-transfer risk, spanning temporal feature engineering, model comparisons, calibration, competing risks, and an interactive research demo.
 
-![Python](https://img.shields.io/badge/Python-B84E77?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-A54369?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-D96A94?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-C45F79?style=flat-square&logo=streamlit&logoColor=white)
+`Python` · `scikit-learn` · `XGBoost` · `Streamlit`
 
 <details>
 <summary>Inside the project ↗</summary>
@@ -55,4 +57,4 @@ A retrospective study of ICU-transfer risk, spanning temporal feature engineerin
 
 **Elsewhere:** [Repositories](https://github.com/sruthicodesthings?tab=repositories) · [LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Sruthi%20Suresh)
 
-<!-- Custom SVG artwork is stored in this repository. Technology labels are rendered by shields.io. -->
+<!-- Header animation uses readme-typing-svg; project content stays readable without it. -->
