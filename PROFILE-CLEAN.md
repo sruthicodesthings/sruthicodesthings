@@ -1,19 +1,11 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=42&duration=2600&pause=1100&color=C12E64&center=true&vCenter=true&width=850&height=90&lines=hi%2C+i'm+sruthi.;i+work+with+messy+data.;i+build+things+that+make+sense." alt="Animated introduction: hi, I'm Sruthi; I work with messy data; I build things that make sense." />
-
-<sub>COMPUTER SCIENCE &nbsp; / &nbsp; BIOMEDICAL ENGINEERING &nbsp; / &nbsp; NUS</sub>
-
-</div>
+# Sruthi Suresh
 
 Computer science → biomedical engineering.  
 I work on machine learning problems where the data is difficult, the evaluation matters, and the answer isn't always a bigger model.
 
 Currently studying biomedical engineering at the National University of Singapore.
 
-### <span style="color:#C12E64">Selected work</span>
-
-
+### Selected work
 
 **01 / [Mapping pathology across the mouse brain](https://github.com/sruthicodesthings/computational-pathology)**  
 *Computational pathology · EPFL research*
@@ -57,4 +49,4 @@ A retrospective study of ICU-transfer risk, spanning temporal feature engineerin
 
 **Elsewhere:** [Repositories](https://github.com/sruthicodesthings?tab=repositories) · [LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Sruthi%20Suresh)
 
-<!-- Header animation uses readme-typing-svg; project content stays readable without it. -->
+<!-- No tracking pixels, generated stats, or third-party animations. -->
