@@ -1,6 +1,6 @@
 <div align="center">
 
-![Sruthi Suresh — Computer Science and Biomedical Engineering](assets/profile-header.svg)
+![Sruthi Suresh — Computer Science and Biomedical Engineering](assets/profile-header-pink.svg)
 
 </div>
 
@@ -11,14 +11,14 @@ Currently studying biomedical engineering at the National University of Singapor
 
 ### Selected work
 
-<table><tr><td width="50%"><a href="https://github.com/sruthicodesthings/computational-pathology"><img src="assets/pathology-card.svg" alt="Computational pathology project" width="100%"/></a></td><td width="50%"><a href="https://github.com/sruthicodesthings/mimic-iv-icu-prediction"><img src="assets/icu-card.svg" alt="ICU transfer prediction project" width="100%"/></a></td></tr></table>
+<table><tr><td width="50%"><a href="https://github.com/sruthicodesthings/computational-pathology"><img src="assets/pathology-card-pink.svg" alt="Computational pathology project" width="100%"/></a></td><td width="50%"><a href="https://github.com/sruthicodesthings/mimic-iv-icu-prediction"><img src="assets/icu-card-pink.svg" alt="ICU transfer prediction project" width="100%"/></a></td></tr></table>
 
 **01 / [Mapping pathology across the mouse brain](https://github.com/sruthicodesthings/computational-pathology)**  
 *Computational pathology · EPFL research*
 
 An image-analysis workflow for multi-terabyte fluorescence microscopy: annotation, Attention U-Net segmentation, tiled inference, atlas registration, and spatial quantification.
 
-![Python](https://img.shields.io/badge/Python-2F5B80?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-8B5CF6?style=flat-square&logo=pytorch&logoColor=white) ![MONAI](https://img.shields.io/badge/MONAI-138D8D?style=flat-square) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5A6580?style=flat-square)
+![Python](https://img.shields.io/badge/Python-B84E77?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-D96A94?style=flat-square&logo=pytorch&logoColor=white) ![MONAI](https://img.shields.io/badge/MONAI-A54369?style=flat-square) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-CF83A0?style=flat-square)
 
 <details>
 <summary>Inside the project ↗</summary>
@@ -37,7 +37,7 @@ An image-analysis workflow for multi-terabyte fluorescence microscopy: annotatio
 
 A retrospective study of ICU-transfer risk, spanning temporal feature engineering, model comparisons, calibration, competing risks, and an interactive research demo.
 
-![Python](https://img.shields.io/badge/Python-2F5B80?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-138D8D?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-8B5CF6?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-C45F79?style=flat-square&logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-B84E77?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-A54369?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-D96A94?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-C45F79?style=flat-square&logo=streamlit&logoColor=white)
 
 <details>
 <summary>Inside the project ↗</summary>
